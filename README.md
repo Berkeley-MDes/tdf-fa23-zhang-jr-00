@@ -18,6 +18,7 @@ This week, I designed a cool phone stand made of rocks. Check out all my cool sk
 ---
 
 or, if you prefer, you can create separate files and link to them here, like so:
+
 ---
 [Example Report 1](weekly-reports/example-report-1.md)
 ---
