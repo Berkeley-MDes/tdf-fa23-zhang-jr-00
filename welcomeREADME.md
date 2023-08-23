@@ -18,7 +18,9 @@ This week, I designed a cool phone stand made of rocks. Check out all my cool sk
 ---
 
 or, if you prefer, you can create separate files and link to them here, like so:
+---
 [Example Report 1](weekly-reports/example-report-1.md)
+---
 
 Either way, it's time to start making this space your own! If you want to save these instructions -- just keep this copy!
 I hope you now feel empowered to make your GitHub Repository and README.md your own and start documenting! 
